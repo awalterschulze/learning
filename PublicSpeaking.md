@@ -11,6 +11,7 @@
 
 ## Inspiration
 
+  - [x] [Get Ready to Rock with Sonic Pi: The Live Coding Music Synth for Everyone - Sam Aaron](https://www.youtube.com/watch?v=OLLwG_SN8oo)
   - [x] [React 2014 : What does it mean to be Reactive? - Erik Meijer](https://www.youtube.com/watch?v=sTSQlYX5DU0)
   - [x] [Baruco 2012 Keynote: The Top 10 Ways To Scam The Modern American Programmer - Zed A. Shaw](https://www.youtube.com/watch?v=neI_Pj558CY)
   - [x] [Wat - Gary Bernhardt](https://www.destroyallsoftware.com/talks/wat)
