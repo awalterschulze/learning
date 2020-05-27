@@ -13,6 +13,8 @@
     * By leaning into them you will gain insight and become confident in yourself.
     * Grief has multiple 90 second waves.
     
+  - [ ] [Emotions and how to handle them - playlist](https://www.youtube.com/playlist?list=PL-HGtyrllqroM-qmYRkc3fW2P9u1il7dq)
+    
 ## SMART Goals
 
   - [x] [How to Set SMART Goals with Cognitive Behavioral Therapy | The Great Courses Plus](https://www.youtube.com/watch?v=DzslQOcmuxM)
