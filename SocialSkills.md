@@ -4,7 +4,7 @@
   - [ ] [Peopleware: Productive Projects and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113/ref=dp_ob_title_bk)
   - [x] [Performance vs Trust by Simon Sinek](https://www.youtube.com/watch?v=YPDmNaEG8v4)
   - [x] [Privacy at Work: Architectural Correlates of Job Satisfaction and Job Performance - Eric Sundstrom, Robert E. Burt and Douglas Kamp](https://journals.aom.org/doi/abs/10.5465/255498)
-
+  - [ ] [Dear HBR - podcast](https://hbr.org/2018/01/podcast-dear-hbr)
   - [ ] [My Dad's notes - private, sorry](https://www.dropbox.com/personal/Learn/JurgenCourses), read mediation skills first.
 
 ## Conflict Resolution
