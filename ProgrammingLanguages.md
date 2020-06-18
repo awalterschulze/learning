@@ -100,6 +100,10 @@
 
   - [ ] [Learn You Some Erlang for great good](https://learnyousomeerlang.com/)
   
+## Zig
+
+  - [x] [The Road to Zig 1.0 - Andrew Kelley](https://www.youtube.com/watch?v=Gv2I7qTux7g)
+  
 ## OCaml
 
   - [x] [Real World OCaml - Part 1](https://realworldocaml.org/)
