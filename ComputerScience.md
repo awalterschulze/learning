@@ -1,6 +1,7 @@
 # Computer Science
 
   - [x] [It's Time for a New Old Language - Guy Steele](https://www.youtube.com/watch?v=dCuZkaaou0Q)
+
     Watch this before you read any computer science papers
 
 ## Theoretical Computer Science
