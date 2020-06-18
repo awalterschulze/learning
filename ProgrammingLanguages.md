@@ -91,7 +91,7 @@
  
 ## Erlang
 
-  - [ ] [Learn You Some Erlang for great good](https://learnyousomeerlang.com/)
+  - [ ] [Erlang and OTP in Action](https://www.manning.com/books/erlang-and-otp-in-action)
   
 ## Zig
 
