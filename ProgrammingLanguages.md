@@ -82,13 +82,6 @@
   - [ ] [Fast Functional Goats, Lions and Wolves](http://unriskinsight.blogspot.nl/2014/06/fast-functional-goats-lions-and-wolves.html)
   - [ ] [History of Haskell](https://www.microsoft.com/en-us/research/publication/a-history-of-haskell-being-lazy-with-class/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fsimonpj%2Fpapers%2Fhistory-of-haskell%2F)
   - [ ] [What I wish I knew when learning Haskell](http://dev.stephendiehl.com/hask/)
-
-## Conferences
-
-  - [ ] [Lang.NEXT](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014)
-  - [x] [International Conference on Functional Programming](https://www.icfpconference.org/)
-  - [ ] [StrangeLoop](https://www.thestrangeloop.com/)
-  - [ ] [POPL](https://popl18.sigplan.org/)
   
 ## Scheme
   
@@ -169,6 +162,13 @@
   - [x] [The Reasoned Schemer](https://mitpress.mit.edu/books/reasoned-schemer)
   - [x] [microKanren: A Minimal Functional Core for Relational Programming](http://webyrd.net/scheme-2013/papers/HemannMuKanren2013.pdf)
   - [x] [Implement it in your favourite programming language](https://github.com/awalterschulze/gominikanren)
+  
+## Conferences
+
+  - [ ] [Lang.NEXT](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014)
+  - [x] [International Conference on Functional Programming](https://www.icfpconference.org/)
+  - [ ] [StrangeLoop](https://www.thestrangeloop.com/)
+  - [ ] [POPL](https://popl18.sigplan.org/)
 
 ## Popular Programming
 
