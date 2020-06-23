@@ -94,6 +94,10 @@
 
   - [ ] [Erlang and OTP in Action](https://www.manning.com/books/erlang-and-otp-in-action)
   
+## Pony
+
+  - [x] [Pony - 714 Days Later - Sylvan Clebsch](https://www.youtube.com/watch?v=HGDSnOZaU7Y)
+  
 ## Zig
 
   - [x] [The Road to Zig 1.0 - Andrew Kelley](https://www.youtube.com/watch?v=Gv2I7qTux7g)
