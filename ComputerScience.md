@@ -1,6 +1,6 @@
 # Computer Science
 
-## Watch this before you read any computer science papers
+## Watch this before you read any programming language papers
 
   - [x] [It's Time for a New Old Language - Guy Steele](https://www.youtube.com/watch?v=dCuZkaaou0Q)
   - [x] [Redex, Abstract Machines, and Abstract Interpretation 1 - David Van Horn - OPLSS 2017](https://www.youtube.com/watch?v=8upRv9wjHp0)
