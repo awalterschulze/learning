@@ -27,6 +27,10 @@
   - [x] [Combinator Parsers A Short Tutorial](http://www.cs.uu.nl/research/techreps/repo/CS-2008/2008-044.pdf)
   - [ ] [Tree-Sitter - a new parsing system for programming tools - Max Brunsfeld](https://www.thestrangeloop.com/2018/tree-sitter---a-new-parsing-system-for-programming-tools.html)
   
+### Formatting
+  
+  - [x] [Strictly Pretty - Christian Lindig](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=2E564314F89B56D1BD8962F056430F02?doi=10.1.1.34.2200&rep=rep1&type=pdf)
+  
 ### Language Design
  
   - [x] [Protobuffers Are Wrong](https://reasonablypolymorphic.com/blog/protos-are-wrong/)
