@@ -55,6 +55,7 @@
 
   - [ ] [A Practical Introduction To Finger Trees](https://chrispenner.ca/posts/intro-to-finger-trees)
   - [x] **Dynamic Programming**
+  
         - [Algorithms - Lecture 9: Dynamic Programming, Stairs, Woodcutting](https://www.youtube.com/watch?v=sF7hzgUW5uY)
         - [Algorithms - Lecture 10: Dynamic Programming, Matrix Chain Multiplication and Typesetting](https://www.youtube.com/watch?v=u6Y055g4mOE)
         - [Algorithms - Lecture 11: Dynamic Programming, Typesetting and Seam Carving](https://www.youtube.com/watch?v=Jh2HjnUIaRk&nohtml5=False)
