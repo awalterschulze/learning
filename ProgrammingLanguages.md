@@ -94,6 +94,10 @@
 
   - [ ] [Erlang and OTP in Action](https://www.manning.com/books/erlang-and-otp-in-action)
   
+## Elixir
+  
+  - [x] [Erlang/Elixir Syntax: A Crash Course](https://elixir-lang.org/crash-course.html)
+  
 ## Pony
 
   - [x] [Pony - 714 Days Later - Sylvan Clebsch](https://www.youtube.com/watch?v=HGDSnOZaU7Y)
