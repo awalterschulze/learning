@@ -93,6 +93,7 @@
 ## Erlang
 
   - [ ] [Erlang and OTP in Action](https://www.manning.com/books/erlang-and-otp-in-action)
+  - [ ] [Erlang Master Class 3 - OTP Behaviours and Releases - Francesco Cesarini](https://www.youtube.com/playlist?list=PLR812eVbehlx6vgWGf2FLHjkksAEDmFjc)
   
 ## Elixir
   
