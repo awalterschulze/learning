@@ -1,6 +1,8 @@
 # Public Speaking
 
+  - [x] [Stand Up Course - Logan Murray](http://loganmurray.com/stand-up-and-deliver)
   - [x] [Presentation Skills Series - Lighthouse Communications](https://www.youtube.com/playlist?list=PLcbv9zftX5dac0z5W-rwDfcSKXTCpOCbB)
+  - [ ] [Impro - Keith Johnstone, Irving Wardle](https://www.goodreads.com/book/show/306940.Impro)
   - [ ] [Speaker Starter Kit](https://github.com/coryhouse/speaker-starter-kit)
   - [ ] [How to write a successful conference proposal](https://dave.cheney.net/2017/02/12/how-to-write-a-successful-conference-proposal)
   
