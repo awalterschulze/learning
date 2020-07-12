@@ -1,5 +1,6 @@
 # Public Speaking
 
+  - [x] [Do you Talk Funny - David Nihill](https://www.amazon.com/Do-You-Talk-Funny-Funnier-ebook/dp/B017MWHCVI/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1443036851&sr=8-1#ace-1821396653) "My argument in this book is that the most successful speakers are using humor, storytelling, and improv techniques"
   - [x] [Stand Up Course - Logan Murray](http://loganmurray.com/stand-up-and-deliver)
   - [x] [Presentation Skills Series - Lighthouse Communications](https://www.youtube.com/playlist?list=PLcbv9zftX5dac0z5W-rwDfcSKXTCpOCbB)
   - [ ] [Impro - Keith Johnstone, Irving Wardle](https://www.goodreads.com/book/show/306940.Impro)
@@ -10,6 +11,7 @@
 
   * Presenting is a gift. Don't thank people for coming, they should be thanking you.
   * Don't summarise, advertise.
+  * Call attention to the obvious. Acknowledge the likely feelings of the audience to defuse the situation.
 
 ## Inspiration
 
