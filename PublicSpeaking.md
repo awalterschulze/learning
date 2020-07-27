@@ -7,11 +7,28 @@
   - [ ] [Speaker Starter Kit](https://github.com/coryhouse/speaker-starter-kit)
   - [ ] [How to write a successful conference proposal](https://dave.cheney.net/2017/02/12/how-to-write-a-successful-conference-proposal)
   
-## Tips
+## Writing Tips
 
-  * Presenting is a gift. Don't thank people for coming, they should be thanking you.
+  * What emotions do you want the audience to feel?
+  * Why should this specific audience care?
+  * What is the main message, in one sentence.  Repeat the main message throughout the talk.
   * Don't summarise, advertise.
-  * Call attention to the obvious. Acknowledge the likely feelings of the audience to defuse the situation.
+  * Add a bold statement, analogy or preferably a personalized story. 
+  * Trim: If it doesn't add, it detracts
+  
+## Preparation Tips
+  
+  * Learn your material, so you don't need any notes.
+  * Rehearse in front of a practice audience, even if it is just one person.
+  * Practice not saying "uhm", by also stopping to say it in your every day speach or have someone count the number of times you say it, when you practice.
+  * Nerves: If you are still nervous, practice breathing with your stomach.
+  * Posture: By default, elbows bent around 90 degrees.  Use your hands to gesture.
+  
+## Presenting tips
+
+  * Don't say sorry or let people know you this is your first time or that you didn't prepare.
+  * Call attention to the obvious. Acknowledge the likely feelings of the audience to defuse a situation.
+  * Presenting is a gift. Don't thank people for coming, they should be thanking you.
 
 ## Inspiration
 
