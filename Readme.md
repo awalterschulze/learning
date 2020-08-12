@@ -18,4 +18,3 @@ A list of videos, playlists, blog posts, papers, books, etc that I have learned 
   - [Health](https://github.com/awalterschulze/learning/blob/master/Health.md)
   - [Finance](https://github.com/awalterschulze/learning/blob/master/Finance.md)
   - [Music](https://github.com/awalterschulze/learning/blob/master/Music.md)
-  - [Musings](https://github.com/awalterschulze/learning/blob/master/Musings.md)
