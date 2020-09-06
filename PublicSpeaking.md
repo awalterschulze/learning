@@ -15,6 +15,7 @@
   * Don't summarise, advertise.
   * Add a bold statement, analogy or preferably a personalized story. 
   * Trim: If it doesn't add, it detracts
+  * Don't keep the main idea a surprise, say at the start why people should care.
   
 ## Preparation Tips
   
