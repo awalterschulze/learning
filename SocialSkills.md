@@ -6,6 +6,7 @@
   - [x] [Privacy at Work: Architectural Correlates of Job Satisfaction and Job Performance - Eric Sundstrom, Robert E. Burt and Douglas Kamp](https://journals.aom.org/doi/abs/10.5465/255498)
   - [ ] [Dear HBR - podcast](https://hbr.org/2018/01/podcast-dear-hbr)
   - [ ] [My Dad's notes - private, sorry](https://www.dropbox.com/personal/Learn/JurgenCourses), read mediation skills first.
+  - [x] [If management isn't a promotion, then engineering isn't a demotion](https://charity.wtf/2020/09/06/if-management-isnt-a-promotion-then-engineering-isnt-a-demotion/)
 
 ## Conflict Resolution
 
