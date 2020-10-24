@@ -3,6 +3,11 @@
 ## Depression
 
   - [x] [This could be why you're depressed or anxious - Johann Hari](https://www.ted.com/talks/johann_hari_this_could_be_why_you_re_depressed_or_anxious?language=en)
+  - [x] [How to Be Miserable: 40 Strategies You Already Use - Randy. J Paterson](https://www.amazon.co.uk/How-Be-Miserable-Strategies-Already/dp/1626254060#:~:text=Book%20Description,ranks%20of%20happy%20people%20everywhere!)
+
+      [My Notes](https://github.com/awalterschulze/learning/blob/master/HowToBeMiserable.md)
+      
+      tl;dr Exercise and CBT
   
 ## Anxiety
 
@@ -44,8 +49,8 @@
 
  - [x] [Neural Plasticity - Finding Center with Nick Hardwick - Episode 3 - Andrew Huberman, PhD](https://podcasts.apple.com/us/podcast/episode-3-andrew-huberman-phd/id1477772341?i=1000452039176)
 
-    [Extremely interesting notes](https://github.com/awalterschulze/learning/blob/master/NeuralPlasticityAndrewHuberman.md)
+    [My Notes](https://github.com/awalterschulze/learning/blob/master/NeuralPlasticityAndrewHuberman.md)
 
-    tl;dr Short bouts of learning with focus and urgency. Reward yourself. Repeat.
+    tl;dr You are not too old to learn. Short bouts of learning with focus and urgency. Reward yourself. Repeat.
     
  - [x] [Learning How to Learn: Powerful mental tools to help you master tough subjects - Dr. Barbara Oakley - Coursera](https://www.coursera.org/learn/learning-how-to-learn)
