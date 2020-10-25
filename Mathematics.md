@@ -2,6 +2,7 @@
 
   - [x] [The Map of Mathematics](https://www.youtube.com/watch?v=OmJ-4B-mS-Y)
   - [ ] [euclideanspace - Maths - Abstract Algebra and Discrete Mathematics](http://euclideanspace.com/maths/discrete/index.htm)
+  - [x] [Five Stages of Constructive Mathematics - Andrej Bauer](https://www.ams.org/journals/bull/2017-54-03/S0273-0979-2016-01556-4/S0273-0979-2016-01556-4.pdf)
 
 ## Discrete Maths
 
@@ -56,6 +57,7 @@
   
 ## Homotopy Type Theory
 
+  - [ ] [An introduction to univalent foundations for mathematicians - Daniel R. Grayson](https://arxiv.org/pdf/1711.01477.pdf#:~:text=We%20offer%20an%20introduction%20for,an%20alternative%20to%20set%20theory.)
   - [ ] [Homotopy Type Theory](http://www.cs.cmu.edu/~rwh/courses/hott/)
 
 ## Infinity
