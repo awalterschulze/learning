@@ -1,7 +1,7 @@
 # Finance
 
-  - [ ] [IG Academy](https://www.ig.com/uk/learn-to-trade/ig-academy) - A few short and approachable courses on investing.
-  - [ ] [Yahoo Finance](https://finance.yahoo.com/) - A place to view income statements, balance sheets and cash flow for various companies.
+  - [x] [IG Academy](https://www.ig.com/uk/learn-to-trade/ig-academy) - A few short and approachable courses on investing.
+  - [x] [Yahoo Finance](https://finance.yahoo.com/) - A place to view income statements, balance sheets and cash flow for various companies.
   - [ ] [Finviz](https://finviz.com/)
   - [ ] [Anti Fragile](http://www.fooledbyrandomness.com/)
   - [ ] [Investors Have Fallen Into a False Sense of Security](https://dailyreckoning.com/investors-have-fallen-into-a-false-sense-of-security-2/)
