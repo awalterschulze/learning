@@ -1,5 +1,6 @@
 # Social Skills
 
+  - [x] [How to Win Friends and Influence People - Dale Carnegie](https://www.audible.co.uk/pd/How-to-Win-Friends-Influence-People-Audiobook/B004EXIYZM?source_code=M2M30DFT1BkSH101514006M&ds_rl=1241367&ipRedirectOverride=true)
   - [ ] [The Mythical Man-Month, Anniversary Edition: Essays On Software Engineering - Frederick P. Brooks Jr.](https://www.amazon.com/gp/product/B00B8USS14/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0)
   - [ ] [Peopleware: Productive Projects and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113/ref=dp_ob_title_bk)
   - [x] [Performance vs Trust by Simon Sinek](https://www.youtube.com/watch?v=YPDmNaEG8v4)
