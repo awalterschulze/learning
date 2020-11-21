@@ -17,3 +17,4 @@
 ## Bass
 
   - [x] [Truss Rod Adjustment & Setup on fretless Sire Marcus Miller M7](https://www.youtube.com/watch?v=Mx_aDM8W_7E)
+  - [x] [Bass String Change and Fretboard Clean - pauljazzbass](https://www.youtube.com/watch?v=IzSOTbppVYY)
