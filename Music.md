@@ -13,3 +13,7 @@
 
   - [x] [Guthrie Govan on the Profound Effect of Intervals](https://www.youtube.com/watch?v=Cy_c2InwkSk)
         "I think it is better to have a spectrum of all possible notes ... and they are all valid ..." - Guthrie Govan
+
+## Bass
+
+  - [x] [Truss Rod Adjustment & Setup on fretless Sire Marcus Miller M7](https://www.youtube.com/watch?v=Mx_aDM8W_7E)
