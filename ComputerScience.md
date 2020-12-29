@@ -26,6 +26,7 @@
   - [x] [Parsing Expression Grammars: A Recognition-Based Syntactic Foundation](http://bford.info/pub/lang/peg.pdf)
   - [x] [Combinator Parsers A Short Tutorial](http://www.cs.uu.nl/research/techreps/repo/CS-2008/2008-044.pdf)
   - [ ] [Tree-Sitter - a new parsing system for programming tools - Max Brunsfeld](https://www.thestrangeloop.com/2018/tree-sitter---a-new-parsing-system-for-programming-tools.html)
+  - [ ] [Earley Parsing Explained — The Recogniser- Loup Vaillant](https://loup-vaillant.fr/tutorials/earley-parsing/recogniser)
   
 ### Formatting
   
