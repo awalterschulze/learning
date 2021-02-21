@@ -21,4 +21,4 @@ A list of videos, playlists, blog posts, papers, books, etc that I have learned 
 
 ## New
 
-  [x] [Chamath Palihapitiya, on Money as an Instrument of Change](https://www.youtube.com/watch?v=PMotykw0SIk&feature=youtu.be)
+  - [x] [Chamath Palihapitiya, on Money as an Instrument of Change](https://www.youtube.com/watch?v=PMotykw0SIk&feature=youtu.be)
