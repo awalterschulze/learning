@@ -4,7 +4,6 @@
   - [x] [Yahoo Finance](https://finance.yahoo.com/) - A place to view income statements, balance sheets and cash flow for various companies.
   - [ ] [Finviz](https://finviz.com/)
   - [ ] [Anti Fragile](http://www.fooledbyrandomness.com/)
-  - [ ] [Investors Have Fallen Into a False Sense of Security](https://dailyreckoning.com/investors-have-fallen-into-a-false-sense-of-security-2/)
   - [x] [Investing: Time in the market vs timing the market?](https://www.youtube.com/watch?v=vLethGKiP24)
   - [x] [Investing: Don’t sell your winners](https://www.youtube.com/watch?v=f7FS5JC-DB0)
   - [x] [How I lost $350,000 Day Trading stocks and what I learned from it - techlead](https://youtu.be/5IcvRe8bQhU)
