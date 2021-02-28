@@ -14,6 +14,9 @@
   - [x] [Performance vs Trust by Simon Sinek](https://www.youtube.com/watch?v=YPDmNaEG8v4)
   - [x] [Privacy at Work: Architectural Correlates of Job Satisfaction and Job Performance - Eric Sundstrom, Robert E. Burt and Douglas Kamp](https://journals.aom.org/doi/abs/10.5465/255498)
   - [x] [Create a Growth Culture, Not a Performance-Obsessed One](https://hbr.org/2018/03/create-a-growth-culture-not-a-performance-obsessed-one)
+  - [x] [More Harm Than Good: The Truth About Performance Reviews](https://www.gallup.com/workplace/249332/harm-good-truth-performance-reviews.aspx)
+    + Who gets ahead around here? Is it the people who help others succeed? Or is it the people who put themselves before the team?
+    + The best managers in the world create moments where genuine dialogue can occur, where employees feel their opinions matter and like they are cared about in a unique way.
 
 ## Conflict Resolution
 
