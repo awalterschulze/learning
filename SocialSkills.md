@@ -17,6 +17,12 @@
   - [x] [More Harm Than Good: The Truth About Performance Reviews](https://www.gallup.com/workplace/249332/harm-good-truth-performance-reviews.aspx)
     + Who gets ahead around here? Is it the people who help others succeed? Or is it the people who put themselves before the team?
     + The best managers in the world create moments where genuine dialogue can occur, where employees feel their opinions matter and like they are cared about in a unique way.
+  - [x] [Performance Reviews Are Pointless And Insulting -- So Why Do They Still Exist?](https://www.forbes.com/sites/lizryan/2018/01/14/performance-reviews-are-pointless-and-insulting-so-why-do-they-still-exist/)
+    + Performance reviews are artifacts left over from the Industrial Revolution.
+    + Performance reviews are not effective at improving performance. They have never shown their value as leadership tools -- but they make excellent power-and-control mechanisms, and that is one reason some companies have trouble giving up on them.
+    + If the relationship is healthy between the manager and the employee, they're having regular conversations anyway.
+    + Of course, employees need to be able to get feedback when they need it. If they can get that feedback without being graded like elementary school students then it's a win-win for everybody.
+    + It doesn't help an employee move forward for a manager to tell them what they did well and did badly last year. If a manager needs to give someone feedback, they should do that in the moment — not months later.
 
 ## Conflict Resolution
 
