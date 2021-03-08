@@ -42,5 +42,6 @@ Conclusion: [IG](https://www.ig.com/uk) Just ignore the spread betting, their st
 
 ## Crypto Currencies
 
-  - [Ada](https://www.cardano.org/en/home/) Proof of Stake, Platform and uses Haskell
+  - [Ada](https://www.cardano.org/en/home/) Proof of Stake, Platform and uses Haskell, partners with universities on research and publishes papers
+    - [x] [IOHK | Cardano whiteboard; overview with Charles Hoskinson](https://www.youtube.com/watch?v=Ja9D0kpksxw)
   - [ZillaQA](https://zilliqa.com/) Scalable and uses Coq
