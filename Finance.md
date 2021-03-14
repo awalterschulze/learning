@@ -57,3 +57,5 @@ Conclusion: [IG](https://www.ig.com/uk) Just ignore the spread betting, their st
   - [Ada](https://www.cardano.org/en/home/) Proof of Stake, Platform and uses Haskell, partners with universities on research and publishes papers
     - [x] [IOHK | Cardano whiteboard; overview with Charles Hoskinson](https://www.youtube.com/watch?v=Ja9D0kpksxw)
   - [ZillaQA](https://zilliqa.com/) Scalable and uses Coq
+  - [NFTs: $69 Million for a JPEG File - The Wild World of NFT’s](https://youtu.be/x3nmAX3gAlw)
+    - Currently hyped, but real use cases of tracking authenticity, ownership and membership are coming
