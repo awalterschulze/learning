@@ -1,13 +1,11 @@
 # Finance
 
+## Basics
+
   - [x] [IG Academy](https://www.ig.com/uk/learn-to-trade/ig-academy) - A few short and approachable courses on investing.
-  - [x] [Yahoo Finance](https://finance.yahoo.com/) - A place to view income statements, balance sheets and cash flow for various companies.
-  - [ ] [Finviz](https://finviz.com/)
-  - [ ] [Anti Fragile](http://www.fooledbyrandomness.com/)
   - [x] [Investing: Time in the market vs timing the market?](https://www.youtube.com/watch?v=vLethGKiP24)
   - [x] [Investing: Don’t sell your winners](https://www.youtube.com/watch?v=f7FS5JC-DB0)
   - [x] [How I lost $350,000 Day Trading stocks and what I learned from it - techlead](https://youtu.be/5IcvRe8bQhU)
-  - [x] [Upcoming 2020 Recession: How To Prepare For The Market Crash](https://www.youtube.com/watch?v=ElyhByagx1s) - Dividend Aristocrats
   
 ## ETFs and ETCs
 
@@ -16,6 +14,20 @@
   - [x] [iShares Physical Gold ETC](https://m.youtube.com/watch?v=sLKBsgf-Fcs)
   - [x] [iShares Core MSCI Emerging Markets IMI ETF](https://www.youtube.com/watch?v=b2MCFbpG4BM&feature=youtu.be)
   - [x] S&P 500 Dividend Aristocrats
+    - [x] [Upcoming 2020 Recession: How To Prepare For The Market Crash](https://www.youtube.com/watch?v=ElyhByagx1s)
+
+## Meta Investing
+
+  - [x] [Peter Thiel Returns to Stanford to Share Business Tips from "Zero to One"](https://www.youtube.com/watch?v=6kGND-uZolY)
+    - "Tell me something is that is true that almost no one agrees with you on"
+    - You do not want to be in the world of competition. Psychologically we tend to feel safer to go with crowds, but there is no safety in crowds when you are all going into competition.
+    - Uniqueley position your business to have no competitors
+  - [ ] [Anti Fragile](https://www.fooledbyrandomness.com/)
+
+## Financial Statements
+
+  - [x] [Yahoo Finance](https://finance.yahoo.com/) - A place to view income statements, balance sheets and cash flow for various companies.
+  - [ ] [Finviz](https://finviz.com/)
   
 ## United Kingdom
 
