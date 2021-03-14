@@ -18,6 +18,8 @@
 
 ## Meta Investing
 
+  - [x] [Chamath Palihapitiya, Founder and CEO Social Capital, on Money as an Instrument of Change](https://www.youtube.com/watch?v=PMotykw0SIk)
+    - Risk On
   - [x] [Peter Thiel Returns to Stanford to Share Business Tips from "Zero to One"](https://www.youtube.com/watch?v=6kGND-uZolY)
     - "Tell me something is that is true that almost no one agrees with you on"
     - You do not want to be in the world of competition. Psychologically we tend to feel safer to go with crowds, but there is no safety in crowds when you are all going into competition.
