@@ -65,3 +65,7 @@ Conclusion: [IG](https://www.ig.com/uk) Just ignore the spread betting, their st
   - [Tezos](https://tezos.foundation/) uses Coq
   - [NFTs: $69 Million for a JPEG File - The Wild World of NFT’s](https://youtu.be/x3nmAX3gAlw)
     - Currently hyped, but real use cases of tracking authenticity, ownership and membership are coming
+
+## Visa
+
+  - [x] [Switching from Tier 2 to Global Talent Visa UK - technation.io](https://technation.io/news/switching-from-tier-2-to-global-talent-visa/)
