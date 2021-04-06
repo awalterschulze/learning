@@ -33,15 +33,15 @@
   - [x] [How to Set SMART Goals with Cognitive Behavioral Therapy | The Great Courses Plus](https://www.youtube.com/watch?v=DzslQOcmuxM)
   - [x] [A Complete Guide to Goal Setting](https://www.youtube.com/watch?v=XpKvs-apvOs)
   
-    Specific, clear and unambiguous
-    Measurable, using numbers or something that can be broken down into steps 
-    Actionable, it needs to be immediately clear what action needs to be taken to accomplish the goal
-    Achievable given external constraints and factors
-    Relevant, in service of your bigger goals
-    Realistic, something you can develop a high confidence in achieving 
-    Timely, not necessarily time bound but not very far off goals
-    Evaluate, read every week and evaluate them every month 
-    Reward 
+    - Specific, clear and unambiguous
+    - Measurable, using numbers or something that can be broken down into steps 
+    - Actionable, it needs to be immediately clear what action needs to be taken to accomplish the goal
+    - Achievable given external constraints and factors
+    - Relevant, in service of your bigger goals
+    - Realistic, something you can develop a high confidence in achieving 
+    - Timely, not necessarily time bound but not very far off goals
+    - Evaluate, read every week and evaluate them every month 
+    - Reward 
 
 ## Learning
 
