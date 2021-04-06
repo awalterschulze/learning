@@ -29,7 +29,16 @@
     > "Brain imaging research positing that even high-performing employees automatically go into a defence mode during performance reviews, turning a supposedly productive meeting into a fight-or-flight scenario."
 
     > "In the world of business, there aren’t many universal truths. Just one, really: Annual performance reviews are the worst."
+  - [x] [The Performance Management Revolution](https://hbr.org/2016/10/the-performance-management-revolution)
+    > "Dell, Microsoft, IBM and other big business names ... have ditched the process"
+    > "Companies that say they are getting rid of ratings are still using ratings. They just have different labels. For one thing, managers must have some rationale for assigning promotions and raises."
+    > "If there’s no data on performance, the process of handing out promotions and raises can turn chaotic. In some cases, companies could be vulnerable to lawsuits if they don’t have a way to justify decisions."
+    
+    > "restricts creativity, generates mountains of paperwork, and serves no real purpose."
+    > "appraisals haven’t prevented discriminatory practices."
+    > "there’s the possibility of bias in every piece of qualitative information that decision makers consider"
 
+    > "performance actually declined when people were rated relative to others.  Nor did the ratings seem accurate."
 
 ## Conflict Resolution
 
