@@ -28,7 +28,7 @@
 
   - [x] [Self Worth Theory: The Key to Understanding & Overcoming Procrastination - Nic Voge](https://www.youtube.com/watch?v=52lZmIafep4)
 
-      [Self Worth Theory: The Key to Understanding & Overcoming Procrastination - Nic Voge - notes](https://github.com/awalterschulze/learning/blob/master/ProcrastinationNicVoge.md)
+    [Self Worth Theory: The Key to Understanding & Overcoming Procrastination - Nic Voge - My Notes](https://github.com/awalterschulze/learning/blob/master/ProcrastinationNicVoge.md)
       
   - [x] [How to Set SMART Goals with Cognitive Behavioral Therapy | The Great Courses Plus](https://www.youtube.com/watch?v=DzslQOcmuxM)
   - [x] [A Complete Guide to Goal Setting](https://www.youtube.com/watch?v=XpKvs-apvOs)
@@ -47,7 +47,7 @@
 
  - [x] [Neural Plasticity - Finding Center with Nick Hardwick - Episode 3 - Andrew Huberman, PhD](https://podcasts.apple.com/us/podcast/episode-3-andrew-huberman-phd/id1477772341?i=1000452039176)
 
-    [My Notes](https://github.com/awalterschulze/learning/blob/master/NeuralPlasticityAndrewHuberman.md)
+    [Neural Plasticity - Finding Center with Nick Hardwick - Episode 3 - Andrew Huberman, PhD - My Notes](https://github.com/awalterschulze/learning/blob/master/NeuralPlasticityAndrewHuberman.md)
 
     tl;dr You are not too old to learn. Short bouts of learning with focus and urgency. Reward yourself. Repeat.
     
