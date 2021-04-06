@@ -26,6 +26,15 @@
     
 ## Motivation
 
+  - [x] Make your life an RPG (video lost)
+    
+    - Have a long term goal that you are working towards. This simulates the end game goal.
+    - Break down a first part into subquests, that level you up towards the goal. This makes it clear what to do.
+    - Write down every day what you did. This represents progress bars, helps provide some dopamine hits.
+    - When you complete a sub goal reward yourself in a way that progresses you more towards the goal. Don’t eat cake after exercising rather buy yourself new running shoes after.  In an RPG you get better equipment and your stats go up, so you can fight tougher monsters, you aren't punished with lower stats as a reward.
+    - Add a bit of variety in your routine. Change your desk setup. Try a new editor.  This simulates new environments in the game.
+    - The difficulty of the current challenge has to match your skill level. If it is overwhelming, break the task down and focus on easiest part first. If it is too boring, make it challenging by adding a constraint, like a time limit.
+
   - [x] [Self Worth Theory: The Key to Understanding & Overcoming Procrastination - Nic Voge](https://www.youtube.com/watch?v=52lZmIafep4)
 
     [Self Worth Theory: The Key to Understanding & Overcoming Procrastination - Nic Voge - My Notes](https://github.com/awalterschulze/learning/blob/master/ProcrastinationNicVoge.md)
