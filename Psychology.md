@@ -24,8 +24,12 @@
     
   - [ ] [Emotions and how to handle them - playlist](https://www.youtube.com/playlist?list=PL-HGtyrllqroM-qmYRkc3fW2P9u1il7dq)
     
-## SMART Goals
+## Motivation
 
+  - [x] [Self Worth Theory: The Key to Understanding & Overcoming Procrastination - Nic Voge](https://www.youtube.com/watch?v=52lZmIafep4)
+
+      [Self Worth Theory: The Key to Understanding & Overcoming Procrastination - Nic Voge - notes](https://github.com/awalterschulze/learning/blob/master/ProcrastinationNicVoge.md)
+      
   - [x] [How to Set SMART Goals with Cognitive Behavioral Therapy | The Great Courses Plus](https://www.youtube.com/watch?v=DzslQOcmuxM)
   - [x] [A Complete Guide to Goal Setting](https://www.youtube.com/watch?v=XpKvs-apvOs)
   
@@ -38,12 +42,6 @@
     Timely, not necessarily time bound but not very far off goals
     Evaluate, read every week and evaluate them every month 
     Reward 
-
-## Procrastination
-
-  - [x] [Self Worth Theory: The Key to Understanding & Overcoming Procrastination - Nic Voge](https://www.youtube.com/watch?v=52lZmIafep4)
-
-      [my notes](https://github.com/awalterschulze/learning/blob/master/ProcrastinationNicVoge.md)
 
 ## Learning
 
