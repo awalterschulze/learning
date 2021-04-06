@@ -23,6 +23,13 @@
     + If the relationship is healthy between the manager and the employee, they're having regular conversations anyway.
     + Of course, employees need to be able to get feedback when they need it. If they can get that feedback without being graded like elementary school students then it's a win-win for everybody.
     + It doesn't help an employee move forward for a manager to tell them what they did well and did badly last year. If a manager needs to give someone feedback, they should do that in the moment — not months later.
+  - [x] [Why appraisals are pointless for most people](https://www.bbc.com/worklife/article/20190501-why-appraisals-are-pointless-for-most-people)
+    > "They’re really toxic and people hate them. You’re creating artificial steps just to check a box."
+
+    > "Brain imaging research positing that even high-performing employees automatically go into a defence mode during performance reviews, turning a supposedly productive meeting into a fight-or-flight scenario."
+
+    > "In the world of business, there aren’t many universal truths. Just one, really: Annual performance reviews are the worst."
+
 
 ## Conflict Resolution
 
