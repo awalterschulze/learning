@@ -49,6 +49,15 @@
     > "there’s the possibility of bias in every piece of qualitative information that decision makers consider"
 
     > "performance actually declined when people were rated relative to others.  Nor did the ratings seem accurate."
+    
+  - [x] [Why ranking employees by performance backfires](https://www.ft.com/content/0691002c-2200-4583-88c9-9c942d534228)
+    > In many organisations, line managers assign provisional grades then thrash out the overall distribution in “moderation” meetings with other managers. But it is hard to objectively rank people in white-collar jobs doing different things. “You’d have people sat in a room who barely knew each other, comparing apples with pears,” said a second manager at a different firm.
+
+    > these systems are often corrosive for morale, which damages the very performance levels they aim to improve. Research shows that feedback has a moderately positive effect on performance on average, but in a third of cases it decreases performance. What is key is whether people feel the feedback is fair.
+
+    > Microsoft scrapped forced distribution in 2013. The UK’s senior civil service followed suit in 2019.
+
+    > Human resources departments have had to rethink plenty of old notions since the pandemic hit. The counterproductive pseudoscience of forced distribution ought to be one idea that finally stays dead.
 
 ## Conflict Resolution
 
