@@ -5,6 +5,9 @@
     + Status, Certainty, Autonomy, Relatedness, Fairness
     > "Status is about relative importance to others. Certainty concerns being able to predict the future. Autonomy provides a sense of control over events. Relatedness is a sense of safety with others, of friend rather than foe. And fairness is a perception of fair exchanges between people. These five domains activate either the ‘primary reward’ or ‘primary threat’ circuitry (and associated networks) of the brain. For example, a perceived threat to one’s status activates similar brain networks to a threat to one’s life. in the same way, a perceived increase in fairness activates the same reward circuitry as receiving a monetary reward."
     + This article is pure gold ... after I highlighted almost every word.
+  - [x] [NonViolent Communication - Marshal Rosenberg](https://www.youtube.com/watch?v=8sjA90hvnQ0)
+    + What are you feeling? "I feel <insert feeling> because" not "I feel, like you"
+    + Do you have any unfulfilled needs? Make a clear request. Remember, the other person isn't behaving wrongly, they just aren't behaving according to *our* beliefs and values. Focus on your own needs, instead of what is wrong with others.
   - [x] [Dear HBR - podcast](https://hbr.org/2018/01/podcast-dear-hbr)
   - [ ] [My Dad's notes - private, sorry](https://www.dropbox.com/personal/Learn/JurgenCourses), read mediation skills first.
   - [x] [If management isn't a promotion, then engineering isn't a demotion](https://charity.wtf/2020/09/06/if-management-isnt-a-promotion-then-engineering-isnt-a-demotion/)
