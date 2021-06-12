@@ -11,6 +11,8 @@
   
 ## Anxiety
 
+  - [x] [The Science of Mindfulness (Talks at Google) - Dr. Ron Siegel](https://www.youtube.com/watch?v=aPlG_w40qOE)
+
   - [x] [Willpower is for Losers - What I've Learned](https://www.youtube.com/watch?v=k2Wcu6aGyz8)
 
 ## Resilience
