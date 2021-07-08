@@ -24,7 +24,9 @@
     * By leaning into them you will gain insight and become confident in yourself.
     * Grief has multiple 90 second waves.
     
-  - [ ] [Emotions and how to handle them - playlist](https://www.youtube.com/playlist?list=PL-HGtyrllqroM-qmYRkc3fW2P9u1il7dq)
+  - [x] [The Chinese Proverb of 'Sai Weng Lost His Horse'](https://www.thoughtco.com/chinese-proverbs-sai-weng-lost-his-horse-2278437)
+
+    An event my seem bad or good right now, but how do you it will be a good or bad thing for you in the future or long term.
     
 ## Motivation
 
