@@ -8,6 +8,7 @@
 ## Theoretical Computer Science
 
   - [x] [Intro to Hoare Logic - David Quarel](https://www.youtube.com/watch?v=t-Mj4ji3tCw&list=PLA72M-qSGPm2WxSxXthNiYx2u4KBZlXCC)
+  - [x] [Separation Logic - Peter O Hearn](https://dl.acm.org/doi/pdf/10.1145/3211968)
   - [ ] [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
   - [ ] [Godel's Proof - Ernest Nagel](https://www.amazon.com/Godels-Proof-Ernest-Nagel-ebook/dp/B004DL2JCE)
   - [ ] [The Annotated Turing - Charles Petzold](https://www.amazon.com/Annotated-Turing-Through-Historic-Computability/dp/0470229055)
