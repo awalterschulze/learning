@@ -25,6 +25,10 @@
 
     > "in most people, the question ‘can i offer you some feedback’ generates a similar response to hearing fast footsteps behind you at night. Performance reviews often generate status threats, explaining why they are often ineffective at stimulating behavioral change. if leaders want to change others’ behavior, more attention must be paid to reducing status threats when giving feedback. one way to do this is by allowing people to give themselves feedback on their own performance."
   - [x] [Performance vs Trust by Simon Sinek](https://www.youtube.com/watch?v=YPDmNaEG8v4)
+  - [x] [Do Nothing - Celeste Headlee](https://celesteheadlee.com/do-nothing-book/)
+  > "Years of research show open office plans actually make people less likely to talk to each other. Having no possibility of privacy causes stress and therefore discourages creative thought"
+  - [ ] [The Transparency Paradox - Ethan S. Bernstein](https://dash.harvard.edu/bitstream/handle/1/33780569/bernstein_transparency-paradox.pdf?sequence=1)
+  > "maintaining observability of workers may counterintuitively reduce their performance"
   - [x] [Privacy at Work: Architectural Correlates of Job Satisfaction and Job Performance - Eric Sundstrom, Robert E. Burt and Douglas Kamp](https://journals.aom.org/doi/abs/10.5465/255498)
   - [x] [Create a Growth Culture, Not a Performance-Obsessed One](https://hbr.org/2018/03/create-a-growth-culture-not-a-performance-obsessed-one)
   - [x] [More Harm Than Good: The Truth About Performance Reviews](https://www.gallup.com/workplace/249332/harm-good-truth-performance-reviews.aspx)
