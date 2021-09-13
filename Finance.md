@@ -61,7 +61,8 @@ Conclusion: [IG](https://www.ig.com/uk) Just ignore the spread betting, their st
   - [x] [The future will be decentralized | Charles Hoskinson | TEDxBermuda](https://youtu.be/97ufCT6lQcY)
   - [Ada](https://www.cardano.org/en/home/) Proof of Stake, Platform and uses Haskell, partners with universities on research and publishes papers
     - [x] [IOHK | Cardano whiteboard; overview with Charles Hoskinson](https://www.youtube.com/watch?v=Ja9D0kpksxw)
-  - [ZillaQA](https://zilliqa.com/) Scalable and uses Coq
+  - [ZillaQA](https://zilliqa.com/) Scalable using Sharding and uses Coq
+    - [x] [Zilliqa Review: High Performance Sharding Based Blockchain - Coinbureau](https://www.coinbureau.com/review/zilliqa-zil/)
   - [Tezos](https://tezos.foundation/) uses Coq
   - [NFTs: $69 Million for a JPEG File - The Wild World of NFT’s](https://youtu.be/x3nmAX3gAlw)
     - Currently hyped, but real use cases of tracking authenticity, ownership and membership are coming
