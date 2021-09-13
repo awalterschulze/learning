@@ -26,6 +26,16 @@
 
 ## Resilience
 
+  - [x] [Improve Your Self Esteem in Just 2 Weeks - Dr. Douglas Lisle (Interview)](https://www.youtube.com/watch?v=YxolxJWj-h4) 
+    * Self esteem is a word, but esteem is rarely used as a word.
+    * Self esteem is the reputation you have with your internal audience.
+    * Esteem is the reputation you have with others, your Status. (relates to SCARF)
+    * The internal audience is your evolved testing ground to check how your actions will affect your esteem before you do them, but if you trained them wrong they will be very negative and cause you to procrastinate.
+    * We don’t attempt some things that other people already think we can do, because if we do and we fail we will lose the esteem we already have.
+    * You are only in charge of your self esteem, esteem is outside of your control
+    * Luckily you are also the only person in charge of your self esteem, so you can retrain the internal audience (relates to mCBT and being kind with yourself)
+    * Set goals that are totally in your control and eventually your internal audience will commend you for being diligent, which is in your control, instead of looking good to others, which is outside of your control. (relates to SMART goals)
+
   - [x] [Emotional Mastery: The Gifted Wisdom of Unpleasant Feelings - Dr Joan Rosenberg](https://www.youtube.com/watch?v=EKy19WzkPxE)
   
     * Lean into unpleasant feelings, instead of avoiding them.
