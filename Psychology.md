@@ -2,6 +2,11 @@
 
   - [x] [Cognitive Behavioral Therapy: Techniques for Retraining Your Brain - The Great Courses - Jason M. Satterfield](https://www.thegreatcourses.com/courses/cognitive-behavioral-therapy-techniques-for-retraining-your-brain)
 
+  - [x] [Do Nothing: Break Away from Overworking, Overdoing and Underliving - Celeste Headlee](https://www.goodreads.com/book/show/52668196-do-nothing)
+
+    > Essential qualities of a human being: social skills and language, a need to belong that fosters empathy, rule making, music and play. We excel at these things, and we need them in order to be healthy.
+
+
 ## Depression
 
   - [x] [This could be why you're depressed or anxious - Johann Hari](https://www.ted.com/talks/johann_hari_this_could_be_why_you_re_depressed_or_anxious?language=en)
