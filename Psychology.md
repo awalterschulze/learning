@@ -6,6 +6,8 @@
 
     > Essential qualities of a human being: social skills and language, a need to belong that fosters empathy, rule making, music and play. We excel at these things, and we need them in order to be healthy.
 
+    > Create an ideal schedule: work fewer hours, schedule leisure, schedule socials, work in teams, commit small selfless acts.
+
 
 ## Depression
 
