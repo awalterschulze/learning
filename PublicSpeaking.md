@@ -3,6 +3,7 @@
   - [x] [Do you Talk Funny - David Nihill](https://www.amazon.com/Do-You-Talk-Funny-Funnier-ebook/dp/B017MWHCVI/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1443036851&sr=8-1#ace-1821396653) "My argument in this book is that the most successful speakers are using humor, storytelling, and improv techniques"
   - [x] [Stand Up Course - Logan Murray](http://loganmurray.com/stand-up-and-deliver)
   - [x] [Presentation Skills Series - Lighthouse Communications](https://www.youtube.com/playlist?list=PLcbv9zftX5dac0z5W-rwDfcSKXTCpOCbB)
+  - [x] [How to Add Voice in PowerPoint Presentation](https://www.youtube.com/watch?v=tzJ1dZBGpUg)
   - [ ] [Impro - Keith Johnstone, Irving Wardle](https://www.goodreads.com/book/show/306940.Impro)
   - [ ] [Speaker Starter Kit](https://github.com/coryhouse/speaker-starter-kit)
   - [ ] [How to write a successful conference proposal](https://dave.cheney.net/2017/02/12/how-to-write-a-successful-conference-proposal)
