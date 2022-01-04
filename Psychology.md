@@ -26,6 +26,15 @@
 
 ## Resilience
 
+  - [x] [The Enchiridion - Epictetus](https://www.stmarys-ca.edu/sites/default/files/attachments/files/Enchiridion.pdf)
+    * Something that isn't in my control is not my worry to have and I am to laugh at myself if things not in my control are important to me. Focus on things in my control which are free and unhindered by things out of my control.  Also both the things in and out of my control are all temporary, so enjoy the good things while they last and know that the bad times will pass.
+    * > Some things are in our control and others not. Things in our control are opinion, pursuit, desire, aversion, and, in a word, whatever are our own actions. Things not in our control are body, property, reputation, command, and, in one word, whatever are not our own actions.
+    * > The things in our control are by nature free, unrestrained, unhindered; but those not in our control are weak, slavish, restrained, belonging to others
+    * > if it concerns anything not in our control, be prepared to say that it is nothing to you.
+    * > Never say of anything, "I have lost it"; but, "I have returned it." Is your child dead? It is returned
+    * > If you wish your children, and your wife, and your friends to live for ever, you are stupid; for you wish to be in control of things which you cannot
+    * > for your part, don't wish to be a general, or a senator, or a consul, but to be free; and the only way to this is a contempt of things not in our own control 
+
   - [x] [Improve Your Self Esteem in Just 2 Weeks - Dr. Douglas Lisle (Interview)](https://www.youtube.com/watch?v=YxolxJWj-h4) 
     * Self esteem is a word, but esteem is rarely used as a word.
     * Self esteem is the reputation you have with your internal audience.
