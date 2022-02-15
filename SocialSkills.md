@@ -77,3 +77,8 @@
   - [x] [The Art of Negotiating the Best Deal - Seth Freeman](https://www.goodreads.com/en/book/show/22816770-the-art-of-negotiating-the-best-deal)
   - [x] [STABEN - Jennie Byrne](https://www.youtube.com/watch?v=DSGy5yvC0hM)
   - Durable decisions: Start by documenting your goals, assumptions, pros and cons of your options and very importantly who the decision maker will be, who people can follow up with afterwards.  Make sure everyone agrees on the inputs and then let the decision maker make the decision. Communicate the decision widely and quickly. The decision can change, but only if the inputs change.  This means that anyone who disagrees, needs to say why the goals, assumptions or options are incorrect.  
+
+## Difficult Situations
+
+  - [x] [Narcissism Driven by Insecurity, Not Grandiose Sense of Self](https://www.nyu.edu/about/news-publications/news/2021/march/narcissism-driven-by-insecurity--not-grandiose-sense-of-self--ne.html). Narcissists tend to engage in self congratulations, because of their insecurities, but this tends to make people like them less, which leads to more insecurities and more self congratulations.
+
