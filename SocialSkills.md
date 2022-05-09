@@ -49,6 +49,8 @@
   - [x] [The 5 New Habits of the Most Effective Leaders, Backed by Considerable Science](https://incafrica.com/article/jeff-haden-the-5-new-habits-of-most-effective-leaders-backed-by-considerable-science/)
     + Why not use a shit sandwich to give feedback? 
       > While one in five people appreciate the positives, three out of four feel manipulated. Nine out of ten feel patronized. And only 7 percent actually change the behavior in question.
+    + For 40 percent more effective feedback, rather say:
+      > I'm giving you these comments because I have very high expectations and I know that you can reach them
     + Getting rid of toxic employees is more valuable than employing superstars:
       > Adding a superstar to a team boosts employee morale by 16 percent and saves the average company approximately $6,000 per year. Removing a toxic employee from a team boosts employee morale by 61 percent and saves the average company over $13,000 per year.
   - [x] [Why appraisals are pointless for most people](https://www.bbc.com/worklife/article/20190501-why-appraisals-are-pointless-for-most-people)
