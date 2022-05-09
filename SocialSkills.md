@@ -46,6 +46,11 @@
     + If the relationship is healthy between the manager and the employee, they're having regular conversations anyway.
     + Of course, employees need to be able to get feedback when they need it. If they can get that feedback without being graded like elementary school students then it's a win-win for everybody.
     + It doesn't help an employee move forward for a manager to tell them what they did well and did badly last year. If a manager needs to give someone feedback, they should do that in the moment — not months later.
+  - [x] [The 5 New Habits of the Most Effective Leaders, Backed by Considerable Science](https://incafrica.com/article/jeff-haden-the-5-new-habits-of-most-effective-leaders-backed-by-considerable-science/)
+    + Why not use a shit sandwich to give feedback? 
+      > While one in five people appreciate the positives, three out of four feel manipulated. Nine out of ten feel patronized. And only 7 percent actually change the behavior in question.
+    + Getting rid of toxic employees is more valuable than employing superstars:
+      > Adding a superstar to a team boosts employee morale by 16 percent and saves the average company approximately $6,000 per year. Removing a toxic employee from a team boosts employee morale by 61 percent and saves the average company over $13,000 per year.
   - [x] [Why appraisals are pointless for most people](https://www.bbc.com/worklife/article/20190501-why-appraisals-are-pointless-for-most-people)
     > "They’re really toxic and people hate them. You’re creating artificial steps just to check a box."
 
