@@ -8,6 +8,12 @@
 
     > Create an ideal schedule: work fewer hours, schedule leisure, schedule socials, work in teams, commit small selfless acts.
 
+## Mindfulness
+
+  - [x] [Headspace](https://www.headspace.com/) Acceptance Course Episode 10
+    > Acceptance isn’t something we need to try to do. We simply need to notice resistance and see it clearly. If we see resistance clearly, it disappears. As often as you can notice the moments of resistance, use them to learn more about your mind. Giving up resistance is acceptance 
+Rather than strive for acceptance, notice resistance and let it go.
+
 
 ## Depression
 
