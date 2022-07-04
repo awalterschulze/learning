@@ -9,6 +9,8 @@
   - [x] [14 Signs & Symptoms Of Eating Too Much Fat - GojiMan](https://youtu.be/RckqL1IVnXg?t=147)
         Eating too much fat can lead to: bloating and burping, pain in right shoulder
   
+  - [x] [Intermittent Fasting Guide for 2022 - Doctor Mike Hansen](https://www.youtube.com/watch?v=RI5oYIUItN8)
+  
   - [x] [Low Carb & Keto: What about Cholesterol?](https://www.youtube.com/watch?v=b7zWNabebxs)
         Vitamin K2 found in animal fat is used to transport calcium from your heart to your bones.
         This reduces mortality rates from heart desease, where Vitamin K1 found in soy beans, does not.
