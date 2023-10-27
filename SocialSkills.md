@@ -1,5 +1,8 @@
 # Social Skills
 
+  - [x] [How To Spot An Idiot - Illinois Gov. J.B. Pritzker](https://www.youtube.com/watch?v=i2Lo8ChhOKU)
+    + "The kindest person in the room is often the smartest"
+    + "We survived as a spieces by being suspiciuos. In order to be kind, we have to shutdown our animal instinct ... empathy and compasion are evolved states of being"
   - [x] [How to Win Friends and Influence People - Dale Carnegie](https://www.audible.co.uk/pd/How-to-Win-Friends-Influence-People-Audiobook/B004EXIYZM?source_code=M2M30DFT1BkSH101514006M&ds_rl=1241367&ipRedirectOverride=true)
   - [x] [SCARF: a brain-based model for collaborating with and influencing others](https://coe.uga.edu/assets/downloads/dei/internal-resources/conflict-scarf.pdf)
     + Status, Certainty, Autonomy, Relatedness, Fairness
