@@ -31,6 +31,7 @@
         You can invest stocks and shares in an ISA to avoid capital gains tax.
   - [x] [The Best SIPP For 2024 (Self-Invested Personal Pension UK)](https://www.youtube.com/watch?v=tQs3Blfp_RQ).
         Conclusion: Move you pension into a SIPP for more freedom. Interactive Investor seems to be the winner in 2024.
+  - [x] [Financial Adviser Explains - The New State Pension (UK)](https://www.youtube.com/watch?v=CTnr9bLD48k)
    
 ### Best share dealing platform
 
