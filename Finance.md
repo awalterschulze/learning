@@ -18,14 +18,6 @@
 
 ## Meta Investing
 
-  - [x] [Chamath Palihapitiya, Founder and CEO Social Capital, on Money as an Instrument of Change](https://www.youtube.com/watch?v=PMotykw0SIk)
-    - Risk On
-  - [x] [All Things Chamath: Palihapitiya Outlines His Vision](https://www.youtube.com/watch?v=wqtd8CuqF7A&t=144s)
-    - "Put money into the things you care about and then do nothing and learning that second part is super hard"
-  - [x] [Peter Thiel Returns to Stanford to Share Business Tips from "Zero to One"](https://www.youtube.com/watch?v=6kGND-uZolY)
-    - "Tell me something is that is true that almost no one agrees with you on"
-    - You do not want to be in the world of competition. Psychologically we tend to feel safer to go with crowds, but there is no safety in crowds when you are all going into competition.
-    - Uniqueley position your business to have no competitors
   - [ ] [Anti Fragile](https://www.fooledbyrandomness.com/)
 
 ## Financial Statements
@@ -37,6 +29,8 @@
 
   - [x] [Full ISA Guide](https://www.moneysavingexpert.com/savings/ISA-guide-savings-without-tax/)
         You can invest stocks and shares in an ISA to avoid capital gains tax.
+  - [x] [The Best SIPP For 2024 (Self-Invested Personal Pension UK)](https://www.youtube.com/watch?v=tQs3Blfp_RQ).
+        Conclusion: Move you pension into a SIPP for more freedom. Interactive Investor seems to be the winner in 2024.
    
 ### Best share dealing platform
 
@@ -52,7 +46,6 @@ Conclusion: [IG](https://www.ig.com/uk) Just ignore the spread betting, their st
 
 ## Virtual Banks
 
-  - [N26](https://www.n26.com) Based in Germany and useful for credit card.
   - [Revolut](https://www.revolut.com/) Based in UK and useful for currency exchange.
   - [Monzo](https://monzo.com/) Based in UK and useful for direct debit.
 
@@ -60,9 +53,9 @@ Conclusion: [IG](https://www.ig.com/uk) Just ignore the spread betting, their st
 
   - [x] [The future will be decentralized | Charles Hoskinson | TEDxBermuda](https://youtu.be/97ufCT6lQcY)
   - [Ada](https://www.cardano.org/en/home/) Proof of Stake, Platform and uses Haskell, partners with universities on research and publishes papers
-    - [x] [IOHK | Cardano whiteboard; overview with Charles Hoskinson](https://www.youtube.com/watch?v=Ja9D0kpksxw)
+  - [x] [IOHK | Cardano whiteboard; overview with Charles Hoskinson](https://www.youtube.com/watch?v=Ja9D0kpksxw)
   - [ZillaQA](https://zilliqa.com/) Scalable using Sharding and uses Coq
-    - [x] [Zilliqa Review: High Performance Sharding Based Blockchain - Coinbureau](https://www.coinbureau.com/review/zilliqa-zil/)
+  - [x] [Zilliqa Review: High Performance Sharding Based Blockchain - Coinbureau](https://www.coinbureau.com/review/zilliqa-zil/)
   - [Tezos](https://tezos.foundation/) uses Coq
   - [NFTs: $69 Million for a JPEG File - The Wild World of NFT’s](https://youtu.be/x3nmAX3gAlw)
     - Currently hyped, but real use cases of tracking authenticity, ownership and membership are coming
