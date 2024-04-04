@@ -57,6 +57,7 @@
 ## Algorithms And Data Structures
 
   - [ ] [A Practical Introduction To Finger Trees](https://chrispenner.ca/posts/intro-to-finger-trees)
+  - [x] [Logic and Proof, Lecture 10: Binary Decision Diagrams - Lawrence Paulson](https://www.youtube.com/watch?v=csRVdViWzi4)
   - [x] **Dynamic Programming**
      * [Algorithms - Lecture 9: Dynamic Programming, Stairs, Woodcutting](https://www.youtube.com/watch?v=sF7hzgUW5uY)
      * [Algorithms - Lecture 10: Dynamic Programming, Matrix Chain Multiplication and Typesetting](https://www.youtube.com/watch?v=u6Y055g4mOE)
