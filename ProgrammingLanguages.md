@@ -42,6 +42,7 @@
       - [x] [Create a parser using Parsec](https://github.com/aslatter/parsec)
   - [x] [Theorems for free!](http://ttic.uchicago.edu/~dreyer/course/papers/wadler.pdf)
   - [x] Monad Transformers
+  - [x] [Zippers - Learn You a Haskell](https://learnyouahaskell.com/zippers)
   - [ ] [Continuation passing style](https://en.wikibooks.org/wiki/Haskell/Continuation_passing_style)
   - [ ] [the Continuation monad](http://www.haskellforall.com/2012/12/the-continuation-monad.html)
 
